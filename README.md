@@ -9,4 +9,4 @@ This is the finished version of the tutorial with all the code to make the navig
 You will want to download the project and then either open it up in your favorite code editor or use GitHub to clone this repo and open it in your favorite editor. 
 
 #### Tutorial Companion
-YouTube: 
+YouTube: https://youtu.be/T4hg0lr4lh8 
